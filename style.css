@@ -1,0 +1,57 @@
+#Container{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+#ProfName{
+    font-weight: lighter;
+    font-size: 45pt;
+    position: absolute;
+    top: 15%;
+    left: 45%;
+}
+
+
+#Pfp{
+    position: absolute;
+    top: 18%;
+    left: 37%;
+    width: 115px;
+    height: 115px;
+    border-radius: 100%;
+    border: 2px;
+    border: black;
+}
+
+
+
+
+#DateJoined{
+    font-weight: lighter;
+    font-size: 20pt;
+    position: absolute;
+    top: 25%;
+    left: 45%;
+}
+
+
+
+#NoProjs{
+    display: block;
+    font-weight: bold;
+    font-size: 15pt;
+    position: absolute;
+    top: 60%;
+    left: 42%;
+}
+
+
+
+#ProjTxt{
+    font-weight: lighter;
+    font-size: 40pt;
+    position: absolute;
+    top: 40%;
+    left: 44%;
+}
